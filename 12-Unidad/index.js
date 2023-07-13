@@ -14,7 +14,6 @@ const calcularfibonacci = (num) => {
         }
         else {
             valor = cadenaFibo[i-1]  + cadenaFibo[i-2]            
-            console.log(valor);            
         }
         cadenaFibo.push(valor)
  }
