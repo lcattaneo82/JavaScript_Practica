@@ -1,0 +1,19 @@
+.container {
+    margin:1rem;
+    padding: 1rem; 
+    background-color: dimgray;   
+}
+
+.container .section {
+    margin:1rem;
+    padding: 1rem; 
+    background-color:aqua;   
+
+}
+
+.container .section .parrafo {
+    margin:1rem;
+    padding: 1rem; 
+    background-color: white;   
+
+}
